@@ -1,0 +1,20 @@
+Attaching to computernetworks_rt2_1
+[36mrt2_1  |[0m PING rt1 (1.2.0.1) 4000(4028) bytes of data.
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=1 ttl=64 time=0.172 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=2 ttl=64 time=0.178 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=3 ttl=64 time=0.166 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=4 ttl=64 time=0.182 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=5 ttl=64 time=0.148 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=6 ttl=64 time=0.178 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=7 ttl=64 time=0.189 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=8 ttl=64 time=0.190 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=9 ttl=64 time=0.099 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=10 ttl=64 time=0.173 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=11 ttl=64 time=0.195 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=12 ttl=64 time=0.171 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=13 ttl=64 time=0.191 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=14 ttl=64 time=0.183 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=15 ttl=64 time=0.188 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=16 ttl=64 time=0.183 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=17 ttl=64 time=0.172 ms
+[36mrt2_1  |[0m 4008 bytes from computernetworks_rt1_1.computernetworks_tnet2 (1.2.0.1): icmp_seq=18 ttl=64 time=0.177 ms
